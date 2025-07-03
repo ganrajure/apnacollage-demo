@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository.
 <br>
-Auther - Ganesh Rajure
+Auther - Ganesh ( Apna collage)
