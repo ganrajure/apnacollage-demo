@@ -1,2 +1,2 @@
 # apnacollage-demo
-Auther - Ganesh Rajure
+This is my first Git Repository. Auther - Ganesh Rajure
